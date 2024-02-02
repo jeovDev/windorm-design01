@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\modernUI\modernUI\bin\Debug\modernUI.exe.config
+C:\Users\Acer\source\repos\modernUI\modernUI\bin\Debug\modernUI.exe
+C:\Users\Acer\source\repos\modernUI\modernUI\bin\Debug\modernUI.pdb
+C:\Users\Acer\source\repos\modernUI\modernUI\bin\Debug\ReaLTaiizor.dll
+C:\Users\Acer\source\repos\modernUI\modernUI\obj\Debug\modernUI.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\modernUI\modernUI\obj\Debug\modernUI.Form1.resources
+C:\Users\Acer\source\repos\modernUI\modernUI\obj\Debug\modernUI.Properties.Resources.resources
+C:\Users\Acer\source\repos\modernUI\modernUI\obj\Debug\modernUI.csproj.GenerateResource.cache
+C:\Users\Acer\source\repos\modernUI\modernUI\obj\Debug\modernUI.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\modernUI\modernUI\obj\Debug\modernUI.csproj.CopyComplete
+C:\Users\Acer\source\repos\modernUI\modernUI\obj\Debug\modernUI.exe
+C:\Users\Acer\source\repos\modernUI\modernUI\obj\Debug\modernUI.pdb
+C:\Users\Acer\source\repos\modernUI\modernUI\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\Acer\source\repos\modernUI\modernUI\bin\Debug\DevComponents.DotNetBar2.xml
